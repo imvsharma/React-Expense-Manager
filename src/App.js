@@ -27,7 +27,13 @@ const DUMMY_EXPENSES = [
     title: 'Laptop',
     amount: 799.67,
     date: new Date(2023, 3, 19)
-  }
+  },
+  {
+    id: 'e5',
+    title: 'Car Insurance',
+    amount: 29.67,
+    date: new Date(2020, 4, 28)
+  },
 ]
 
 function App() {
